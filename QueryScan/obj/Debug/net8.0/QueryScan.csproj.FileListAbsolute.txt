@@ -1,0 +1,14 @@
+D:\Лаунчер DayZ\NovaDayZ\QueryScan\bin\Debug\net8.0\QueryScan.exe
+D:\Лаунчер DayZ\NovaDayZ\QueryScan\bin\Debug\net8.0\QueryScan.deps.json
+D:\Лаунчер DayZ\NovaDayZ\QueryScan\bin\Debug\net8.0\QueryScan.runtimeconfig.json
+D:\Лаунчер DayZ\NovaDayZ\QueryScan\bin\Debug\net8.0\QueryScan.dll
+D:\Лаунчер DayZ\NovaDayZ\QueryScan\bin\Debug\net8.0\QueryScan.pdb
+D:\Лаунчер DayZ\NovaDayZ\QueryScan\obj\Debug\net8.0\QueryScan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лаунчер DayZ\NovaDayZ\QueryScan\obj\Debug\net8.0\QueryScan.AssemblyInfoInputs.cache
+D:\Лаунчер DayZ\NovaDayZ\QueryScan\obj\Debug\net8.0\QueryScan.AssemblyInfo.cs
+D:\Лаунчер DayZ\NovaDayZ\QueryScan\obj\Debug\net8.0\QueryScan.csproj.CoreCompileInputs.cache
+D:\Лаунчер DayZ\NovaDayZ\QueryScan\obj\Debug\net8.0\QueryScan.dll
+D:\Лаунчер DayZ\NovaDayZ\QueryScan\obj\Debug\net8.0\refint\QueryScan.dll
+D:\Лаунчер DayZ\NovaDayZ\QueryScan\obj\Debug\net8.0\QueryScan.pdb
+D:\Лаунчер DayZ\NovaDayZ\QueryScan\obj\Debug\net8.0\QueryScan.genruntimeconfig.cache
+D:\Лаунчер DayZ\NovaDayZ\QueryScan\obj\Debug\net8.0\ref\QueryScan.dll

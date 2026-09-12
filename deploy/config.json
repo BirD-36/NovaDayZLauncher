@@ -1,0 +1,11 @@
+{
+  "launcher": { "version": "1.0.0", "updateUrl": "", "sha256": "", "releaseNotes": "Первый релиз" },
+  "servers": [
+  { "id": 1, "name": "NovaDayZ #1 - PVP - Livonia",   "address": "80.242.59.221", "gamePort": 2221, "queryPort": 2321, "map": "Livonia",   "thumb": "" }
+  { "id": 2, "name": "NovaDayZ #2 - PVP - Chernarus", "address": "80.242.59.221", "gamePort": 2222, "queryPort": 2322, "map": "Chernarus", "thumb": "" },
+  { "id": 3, "name": "NovaDayZ #3 - PVP - Livonia Vanilla",   "address": "185.97.255.190", "gamePort": 3000, "queryPort": 3001, "map": "Livonia",   "thumb": "" },
+  { "id": 4, "name": "NovaDayZ #4 - PVP - Chernarus Vanilla", "address": "185.97.255.190", "gamePort": 4000, "queryPort": 4001, "map": "Chernarus", "thumb": "" }
+]
+  "mods": { "1": [], "2": [], "3": [], "4": [] },
+  "news": []
+}

@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "NovaDayZ.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/NovaDayZ.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NovaDayZ.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NovaDayZ.Shared/1.0.0": {
+      "type": "project",
+      "path": "../NovaDayZ.Shared/NovaDayZ.Shared.csproj",
+      "msbuildProject": "../NovaDayZ.Shared/NovaDayZ.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "NovaDayZ.Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Professional\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\NovaDayZLauncher\\NovaDayZ\\NovaDayZ.Launcher\\NovaDayZ.Launcher.csproj",
+      "projectName": "NovaDayZ",
+      "projectPath": "C:\\NovaDayZLauncher\\NovaDayZ\\NovaDayZ.Launcher\\NovaDayZ.Launcher.csproj",
+      "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
+      "outputPath": "C:\\NovaDayZLauncher\\NovaDayZ\\NovaDayZ.Launcher\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\NovaDayZLauncher\\NovaDayZ\\NovaDayZ.Shared\\NovaDayZ.Shared.csproj": {
+              "projectPath": "C:\\NovaDayZLauncher\\NovaDayZ\\NovaDayZ.Shared\\NovaDayZ.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

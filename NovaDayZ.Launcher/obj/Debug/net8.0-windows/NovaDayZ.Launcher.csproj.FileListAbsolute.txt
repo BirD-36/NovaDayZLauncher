@@ -1,0 +1,72 @@
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.csproj.AssemblyReference.cache
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\App.baml
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\App.g.cs
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ_MarkupCompile.cache
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.g.resources
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.AssemblyInfoInputs.cache
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.AssemblyInfo.cs
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.csproj.CoreCompileInputs.cache
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.exe
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.deps.json
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.runtimeconfig.json
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.dll
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.pdb
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.Shared.dll
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.Shared.pdb
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.csproj.CopyComplete
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.dll
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\refint\NovaDayZ.dll
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.pdb
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.genruntimeconfig.cache
+D:\Лаунчер DayZ\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\ref\NovaDayZ.dll
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.exe
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.deps.json
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.runtimeconfig.json
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.dll
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.pdb
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.Shared.dll
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.Shared.pdb
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.csproj.AssemblyReference.cache
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\MainWindow.baml
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\App.baml
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\App.g.cs
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ_MarkupCompile.cache
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.g.resources
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.AssemblyInfoInputs.cache
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.AssemblyInfo.cs
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.csproj.CoreCompileInputs.cache
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.csproj.CopyComplete
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.dll
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\refint\NovaDayZ.dll
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.pdb
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.genruntimeconfig.cache
+D:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\ref\NovaDayZ.dll
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.exe
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.deps.json
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.runtimeconfig.json
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.dll
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.pdb
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.Shared.dll
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\bin\Debug\net8.0-windows\NovaDayZ.Shared.pdb
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.csproj.AssemblyReference.cache
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\MainWindow.baml
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\App.baml
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\App.g.cs
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ_MarkupCompile.cache
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.g.resources
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.AssemblyInfoInputs.cache
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.AssemblyInfo.cs
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.csproj.CoreCompileInputs.cache
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.csproj.CopyComplete
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.dll
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\refint\NovaDayZ.dll
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.pdb
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\NovaDayZ.Launcher.genruntimeconfig.cache
+C:\NovaDayZLauncher\NovaDayZ\NovaDayZ.Launcher\obj\Debug\net8.0-windows\ref\NovaDayZ.dll
